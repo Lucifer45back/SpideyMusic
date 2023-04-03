@@ -216,7 +216,7 @@ async def start_command(_, message):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://te.legra.ph/file/4dc54f9db4cb044a53f6b.mp4"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://telegra.ph/file/1a1f6a892af08ea7a8d90.jpg"
                 )
             ],
         ]
@@ -254,7 +254,7 @@ async def fallen_home(_, CallbackQuery):
             ],
             [
                 InlineKeyboardButton(
-                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://te.legra.ph/file/4dc54f9db4cb044a53f6b.mp4"
+                    text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁", url="https://telegra.ph/file/1a1f6a892af08ea7a8d90.jpg"
                 )
             ],
         ]
